@@ -43,7 +43,7 @@ function App() {
                 fontSize: "45px",
               }}
             >
-              Navi Shopping
+              Ragkra Shopping
             </h1>
           </Link>{" "}
           <span style={{ fontSize: "20px", alignContent: "center" }}>
